@@ -8,7 +8,7 @@
 		<div>
 			<div>
 				<div>
-					<h1>REGISTRATION PAGE</h1>
+					<h1>COME ABOARD!</h1>
 				</div>
 			</div>
 		</div>
